@@ -171,6 +171,7 @@ main[b-9kd58q6dug] {
     outline: none;
     /* Remove default browser focus ring */
     cursor: default;
+    white-space: pre-wrap;
 }
 
 ruby[b-4ysz0hkd5q] {
