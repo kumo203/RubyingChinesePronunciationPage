@@ -165,13 +165,21 @@ main[b-9kd58q6dug] {
     max-width: 900px;
 }
 
-.preview-box[b-4ysz0hkd5q] {
-    font-size: 1.5rem;
-    line-height: 2.5;
+.preview-boxes-container[b-4ysz0hkd5q] {
     outline: none;
     /* Remove default browser focus ring */
     cursor: default;
-    white-space: pre-wrap;
+}
+
+.preview-box[b-4ysz0hkd5q] {
+    font-size: 1.5rem;
+    line-height: 2.5;
+    /* Remove default browser focus ring */
+    cursor: default;
+}
+
+.ruby-line[b-4ysz0hkd5q] {
+    min-height: 1em;
 }
 
 ruby[b-4ysz0hkd5q] {
